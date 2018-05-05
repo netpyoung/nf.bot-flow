@@ -1,0 +1,17 @@
+{
+  "name": "bot",
+  "version": "0.0.0",
+  "private": true,
+  "author": "netpyoung <netpyoung@gmail.com>",
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "hubot": "^2.19.0",
+    "hubot-slack": "^3.4.2",
+    "encoding": "0.1.12",
+    "shellwords": "0.1.0",
+    "chdir": "0.0.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}

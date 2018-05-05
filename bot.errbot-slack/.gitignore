@@ -1,0 +1,10 @@
+# Virtualenv
+.venv
+
+# python
+__pycache__
+
+# molang
+/molang_env/
+/data
+/*.log
