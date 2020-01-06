@@ -31,7 +31,7 @@ smmap2==2.0.3
 tailer==0.4.1
 urllib3==1.22
 virtualenv==15.2.0
-waitress==1.1.0
+waitress==1.4.2
 WebOb==1.7.4
 websocket-client==0.47.0
 WebTest==2.0.29
